@@ -11,7 +11,4 @@
 5. If no errors detected, creates .ob file with the translated code.
 6. Also, if were any .entry or .extern instruction, creates .ent file or .ext file respectively.
 
----
-
-## Example for file written for the assembler, *.as* extension:
 
